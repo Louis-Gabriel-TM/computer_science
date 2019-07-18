@@ -20,11 +20,13 @@ On compare alors cette valeur médiane _m_ avec la valeur recherchée :
 
 - si _m_ est égale à la valeur recherchée, c'est fini et on retourne l'indice de _m_.
 
-- si _m_ est inférieure à la valeur recherchée, alors celle-ci ne peut-être que dans l'intervalle [*m*, *b*] : on pose alors _a_ = _m_ et on itère.
+- si _m_ est inférieure à la valeur recherchée, alors celle-ci ne peut-être que dans l'intervalle ]_m_, _b_] : on pose alors _a_ = _m_ et on itère.
 
-* si _m_ est supérieur à la valeur recherchée, alors celle-ci ne peut-être que dans l'intervalle [*a*, *m*] : on pose alors _b_ = _m_ et on itère.
+* si _m_ est supérieur à la valeur recherchée, alors celle-ci ne peut-être que dans l'intervalle [_a_, _m_[ : on pose alors _b_ = _m_ et on itère.
 
-La recherche s'achève dès lors que la valeur est trouvée où que l'intervalle [*a*, *b*] est vide (dès que _a_ > _b_).
+**Remarque** : _Etant donné que l'on recherche un indice, on ne modifiera à chaque itération que les indices des nouveaux a et b._
+
+La recherche s'achève dès lors que la valeur est trouvée où que l'intervalle [*a*, *b*] est vide (dès que _a_ > _b_ ou plutôt dès que l'indice de _a_ est supérieur à l'indice de _b_).
 
 ### Les performances
 
