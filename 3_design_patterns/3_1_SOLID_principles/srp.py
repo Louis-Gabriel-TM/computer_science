@@ -1,5 +1,7 @@
-# SRP = Single Responsibility Principle (1st SOLID principle)
-# Similar to SOC (Separation of Concern) principle
+# SRP = Single Responsibility Principle (1st SOLID principle):
+# "A class should have only one reason to be changed / rewritten"
+
+# Similar to SOC (Separation of Concerns) principle
 
 
 class Diary:
@@ -32,6 +34,9 @@ class Diary:
     # It should not have the responsibility of its persistence:
     # save / load / ... methods should be necessary for other classes.
     # Repeating this merhods for each class would not be DRY
+
+    # A class with all relative responsibilities consist of an antipattern
+    # The God objects antipattern
 
 
 # A better idea is to create a dedicated class for persistence:
