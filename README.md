@@ -2,14 +2,14 @@
 
 A collection of classic algorithms and data structures (July 2019- )
 
-## Algorithms
+## 1. Algorithms
 
-### 1. Complexity of an Algorithm
+### Complexity of an Algorithm
 
 - Time and space complexity
 - **Binary Search** (_Recherche par dichotomie_) **[Python]**
 
-### 2. Sorting
+### Sorting
 
 ##### O (_n_^2)
 
@@ -23,13 +23,29 @@ A collection of classic algorithms and data structures (July 2019- )
 - Merge sort (_Tri par fusion_)
 - Heap sort (_Tri par tas_)
 
-### 3. Graphs
+### Graphs
 
 #### Pathfinding (_Plus court chemin_)
 
 - Breadth-first search (_Parcours en largeur_)
 - Dijkstra's Algorithm
 
-## Data Structures
+## 2. Data Structures
 
-## Classic puzzles
+## 3. Design Patterns
+
+### 3.1. The SOLID Design Principles
+
+**Single Responsibility Principle [Python]**
+
+**O**pen-Closed Principle
+
+**L**iskov Substitution Principle
+
+**I**nterface Segregation Principle
+
+**D**ependency Inversion Principle
+
+## 4. Classic puzzles
+
+- Fizzbuzz **[Python]**
