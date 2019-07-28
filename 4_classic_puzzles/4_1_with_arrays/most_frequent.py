@@ -1,6 +1,6 @@
 """
-The question
-============
+Puzzle Wording
+==============
 Find the most frequently occuring item in an item.
 If given an empty array, return None.
 Else, assume there is a unique value that appears most frequently.
