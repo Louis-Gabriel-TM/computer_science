@@ -26,6 +26,14 @@ Similar to the **_Separation of Concerns (SOC)_** principle.
 
 ### Open-Closed Principle
 
+_"A class / module / function / ... should be open for extension [of the behaviors], but closed for modification [of the source code]."_
+
+**_Inheritance_** helps to observe this principle, especially by using **_abstract base classes_**.
+
+**Useful patterns:** Enterprise pattern _Specification_, _Combinator_
+
+**Illustration:** `ocp.py`
+
 ### Liskov Substitution Principle
 
 ### Interface Segregation Principle

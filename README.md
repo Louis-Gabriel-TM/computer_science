@@ -4,12 +4,12 @@ A collection of classic algorithms and data structures (July 2019- )
 
 ## 1. Algorithms
 
-### Complexity of an Algorithm
+#### Complexity of an Algorithm
 
 - Time and space complexity
 - **Binary Search** (_Recherche par dichotomie_) **[Python]**
 
-### Sorting
+#### Sorting
 
 ##### O (_n_^2)
 
@@ -23,9 +23,9 @@ A collection of classic algorithms and data structures (July 2019- )
 - Merge sort (_Tri par fusion_)
 - Heap sort (_Tri par tas_)
 
-### Graphs
+#### Graphs
 
-#### Pathfinding (_Plus court chemin_)
+##### Pathfinding (_Plus court chemin_)
 
 - Breadth-first search (_Parcours en largeur_)
 - Dijkstra's Algorithm
