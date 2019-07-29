@@ -49,3 +49,9 @@ A collection of classic algorithms and data structures (July 2019- )
 ## 4. Classic puzzles
 
 - Fizzbuzz **[Python]**
+
+#### Array puzzles
+
+- Most frequent element in an array **[Python]**
+- Common elements in two sorted arrays **[Python]**
+- Is an array a rotation of another (no duplicates) ? **[Python]**
