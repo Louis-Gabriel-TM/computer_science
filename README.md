@@ -36,15 +36,15 @@ A collection of classic algorithms and data structures (July 2019- )
 
 ### 3.1. The SOLID Design Principles
 
-**Single Responsibility Principle [Python]**
+- **Single Responsibility Principle [Python]**
 
-**O**pen-Closed Principle
+- **O**pen-Closed Principle
 
-**L**iskov Substitution Principle
+- **L**iskov Substitution Principle
 
-**I**nterface Segregation Principle
+- **I**nterface Segregation Principle
 
-**D**ependency Inversion Principle
+- **D**ependency Inversion Principle
 
 ## 4. Classic puzzles
 
