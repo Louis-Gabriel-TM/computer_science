@@ -54,4 +54,9 @@ A collection of classic algorithms and data structures (July 2019- )
 
 - Most frequent element in an array **[Python]**
 - Common elements in two sorted arrays **[Python]**
-- Is an array a rotation of another (no duplicates) ? **[Python]**
+- Is an array a rotation of another (no duplicates)? **[Python]**
+
+#### String puzzles
+
+- First non repeated character in a string **[Python]**
+- "One away" strings **[Python]**
