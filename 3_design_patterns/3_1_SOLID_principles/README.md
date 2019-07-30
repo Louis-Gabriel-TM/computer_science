@@ -22,9 +22,9 @@ Similar to the **_Separation of Concerns (SOC)_** principle.
 
 **Illustration:** `srp.py`
 
-**Anti-pattern:** God objects
+**Anti-pattern:** _God objects_
 
-### Open-Closed Principle
+### Open-Closed Principle (OCP)
 
 _"A class / module / function / ... should be open for extension [of the behaviors], but closed for modification [of the source code]."_
 
