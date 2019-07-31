@@ -60,3 +60,7 @@ A collection of classic algorithms and data structures (July 2019- )
 
 - First non repeated character in a string **[Python]**
 - "One away" strings **[Python]**
+
+#### Two-dimensional arrays puzzles
+
+- Minesweeper **[Python]**
