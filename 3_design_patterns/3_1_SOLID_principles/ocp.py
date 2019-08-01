@@ -1,5 +1,9 @@
-# OCP = Open-Closed Principle (2nd SOLID principle):
-# "A class / module / function / ... should be open for extension, but closed for modification."
+"""
+OCP = Open-Closed Principle (2nd SOLID principle):
+
+    "A class / module / function / ... should be open for extension, but closed for modification."
+
+"""
 
 from enum import Enum
 

@@ -38,9 +38,9 @@ A collection of classic algorithms and data structures (July 2019- )
 
 - **Single Responsibility Principle [Python]**
 
-- **O**pen-Closed Principle
+- **Open-Closed Principle [Python]**
 
-- **L**iskov Substitution Principle
+- **Liskov Substitution Principle [Python]**
 
 - **I**nterface Segregation Principle
 

@@ -1,7 +1,10 @@
-# SRP = Single Responsibility Principle (1st SOLID principle):
-# "A class should have only one reason to be changed / rewritten."
+"""
+SRP = Single Responsibility Principle (1st SOLID principle):
 
-# Similar to SOC (Separation of Concerns) principle.
+    "A class should have only one reason to be changed / rewritten."
+
+Similar to SOC (Separation of Concerns) principle.
+"""
 
 
 class Diary:

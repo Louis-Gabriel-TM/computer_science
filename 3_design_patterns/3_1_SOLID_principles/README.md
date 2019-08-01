@@ -36,6 +36,12 @@ _"A class / module / function / ... should be open for extension [of the behavio
 
 ### Liskov Substitution Principle
 
+_"Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program."_
+
+**Useful patterns:** _Factory_
+
+**Illustration:** `lsp.py`
+
 ### Interface Segregation Principle
 
 ### Dependency Inversion Principle
