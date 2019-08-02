@@ -48,8 +48,6 @@ A collection of classic algorithms and data structures (July 2019- )
 
 ## 4. Classic puzzles
 
-- Fizzbuzz **[Python]**
-
 #### Array puzzles
 
 - Most frequent element in an array **[Python]**
@@ -60,7 +58,12 @@ A collection of classic algorithms and data structures (July 2019- )
 
 - First non repeated character in a string **[Python]**
 - "One away" strings **[Python]**
+- Palindromes **[Python]**
 
 #### Two-dimensional arrays puzzles
 
 - Minesweeper **[Python]**
+
+#### Modulo: multiples and dividers
+
+- Fizzbuzz **[Python]**
