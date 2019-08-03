@@ -63,6 +63,7 @@ A collection of classic algorithms and data structures (July 2019- )
 #### Two-dimensional arrays puzzles
 
 - Minesweeper **[Python]**
+- Revealing zero bomb zone in Minesweeper **[Python]**
 
 #### Modulo: multiples and dividers
 

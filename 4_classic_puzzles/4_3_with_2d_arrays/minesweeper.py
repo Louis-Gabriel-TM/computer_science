@@ -11,7 +11,7 @@ Inputs:
 
 Example:
 -------
-Input: bombs = [[0, 0], [0, 1]], nb_rows = 3, nb_cols = 4
+Input:  bombs = [[0, 0], [0, 1]], nb_rows = 3, nb_cols = 4
 Ouput:  [[-1, -1, 1, 0],
          [2, 2, 1, 0],
          [0, 0, 0, 0]]
@@ -21,18 +21,22 @@ Ouput:  [[-1, -1, 1, 0],
 def extract_neighbourhood(row, col, nb_rows, nb_cols):
     rows = [row + delta for delta in (-1, 0, 1) if 0 <= row + delta < nb_rows]
     cols = [col + delta for delta in (-1, 0, 1) if 0 <= col + delta < nb_cols]
+
     neighbourhood = [(row, col) for row in rows for col in cols]
+
     return neighbourhood
 
 
 def init_field(nb_rows, nb_cols):
     field = []
+
     for _ in range(nb_rows):
         field.append([0] * nb_cols)
+
     return field
 
 
-def mine_sweeper_placing_bombs_one_by_one(bombs, nb_rows, nb_cols):
+def minesweeper_placing_bombs_one_by_one(bombs, nb_rows, nb_cols):
     field = init_field(nb_rows, nb_cols)
 
     for bomb in bombs:
@@ -50,12 +54,14 @@ def mine_sweeper_placing_bombs_one_by_one(bombs, nb_rows, nb_cols):
 
 def place_bombs(bombs, nb_rows, nb_cols):
     field = init_field(nb_rows, nb_cols)
+
     for bomb in bombs:
         field[bomb[0]][bomb[1]] = 1
+
     return field
 
 
-def mine_sweeper_placing_all_bombs_at_the_beginning(bombs, nb_rows, nb_cols):
+def minesweeper_placing_all_bombs_at_the_beginning(bombs, nb_rows, nb_cols):
     field = init_field(nb_rows, nb_cols)
 
     bomb_field = place_bombs(bombs, nb_rows, nb_cols)
@@ -79,8 +85,4 @@ def mine_sweeper_placing_all_bombs_at_the_beginning(bombs, nb_rows, nb_cols):
 
 
 if __name__ == "__main__":
-    bombs = [[0, 0], [0, 1]]
-    nb_rows, nb_cols = 3, 4
-
-    print(place_bombs(bombs, nb_rows, nb_cols))
-    print(mine_sweeper_placing_bombs_one_by_one(bombs, nb_rows, nb_cols))
+    pass
