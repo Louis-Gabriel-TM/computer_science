@@ -2,7 +2,7 @@
 
 ### Problem Solving in 5 steps
 
-##### 1. Understand the Problem
+#### 1. Understand the Problem
 
 Some questions to consider first:
 
@@ -12,13 +12,18 @@ Some questions to consider first:
 - Have I enough informations to solve the problem?
 - How should I label the data that are parts of the problem?
 
-##### 2. Explore Concrete Examples
+#### 2. Explore Concrete Examples
 
-##### 3. Break It Down!
+- Start with simple examples.
+- Progress to more complex examples.
+- Explore extreme examples like empty inputs.
+- Explore examples with invalid inputs (particularly important in real project, to build a robust solution).
 
-##### 4. Solve or Simplify
+#### 3. Break It Down!
 
-##### 5. Look Back and Refactor
+#### 4. Solve or Simplify
+
+#### 5. Look Back and Refactor
 
 ### For Coding Interviews
 
