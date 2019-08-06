@@ -19,7 +19,13 @@ Some questions to consider first:
 - Explore extreme examples like empty inputs.
 - Explore examples with invalid inputs (particularly important in real project, to build a robust solution).
 
-#### 3. Break It Down!
+#### 3. Break It Down
+
+Explicitly write out the steps you need to take.
+
+You don't have to write a full pseudo-code, the purpose is to think about a the code before writing it.
+
+If you run out of time, you'll have at less a global view of the solution. It's particularly useful in the case of a coding interview.
 
 #### 4. Solve or Simplify
 
@@ -34,6 +40,8 @@ Before coding, imagine **how you may solve the problem on paper**. In the given 
 Then think about **the right data structure** to use.
 
 ##### _"Big picture first, then details"_
+
+Consider and explicit the main sub-problems or steps before going into details.
 
 ##### _"Communicate well with the interviewer"_
 
