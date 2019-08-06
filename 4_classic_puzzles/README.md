@@ -4,6 +4,14 @@
 
 ##### 1. Understand the Problem
 
+Some questions to consider first:
+
+- Can I restate the problem?
+- What are the inputs? their types? their boundaries?
+- What outputs should come from the solution?
+- Have I enough informations to solve the problem?
+- How should I label the data that are parts of the problem?
+
 ##### 2. Explore Concrete Examples
 
 ##### 3. Break It Down!
