@@ -1,5 +1,17 @@
 # Problem Solving Techniques
 
+### Problem Solving in 5 steps
+
+##### 1. Understand the Problem
+
+##### 2. Explore Concrete Examples
+
+##### 3. Break It Down!
+
+##### 4. Solve or Simplify
+
+##### 5. Look Back and Refactor
+
 ### For Coding Interviews
 
 ##### _"Think like on paper"_
