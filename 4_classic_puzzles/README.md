@@ -21,13 +21,22 @@ Some questions to consider first:
 
 #### 3. Break It Down
 
-Explicitly write out the steps you need to take.
-
-You don't have to write a full pseudo-code, the purpose is to think about a the code before writing it.
-
-If you run out of time, you'll have at less a global view of the solution. It's particularly useful in the case of a coding interview.
+- Explicitly write out the steps you need to take.
+- You don't have to write a full pseudo-code, the purpose is to think about a the code before writing it.
+- If you run out of time, you'll have at less a global view of the solution. It's particularly relevant in the case of a coding interview.
 
 #### 4. Solve or Simplify
+
+Solve the problem but, if you can't, solve a simpler version of the problem first.
+
+To simplify:
+
+- find the core difficulty,
+- temporarily ignore that difficulty,
+- write a simplified solution,
+- then incorporate that difficulty back in.
+
+In most case, solving the simpler problem helps dealing with the core difficulty.
 
 #### 5. Look Back and Refactor
 
