@@ -40,7 +40,16 @@ In most case, solving the simpler problem helps dealing with the core difficulty
 
 #### 5. Look Back and Refactor
 
-### For Coding Interviews
+Some refactoring questions:
+
+- can you check the result?
+- can you obtain the result differently?
+- can you understand the code at a glance?
+- can you improve the performance of the solution?
+- can you reuse the method for some other problem?
+- how have other people solved this problem?
+
+## For Coding Interviews
 
 ##### _"Think like on paper"_
 
