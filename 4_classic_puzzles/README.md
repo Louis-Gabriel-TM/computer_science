@@ -59,8 +59,11 @@ It often avoid nested loops or others O(n\*\*2) operations with arrays or string
 
 **Examples:**
 
-- `same_frequencies.js` / `same_frequencies.py`
+- `same_frequencies.js` | `same_frequencies.py`
+- `no_repeat_char.py`
 - `anagrams.js`(with one or two counters)
+- `common_elements.py` (with sets)
+- `most_frequent.py` (with a set or a counter)
 
 #### "Multiples Pointers" Pattern
 

@@ -34,7 +34,6 @@ def most_frequent_item_with_set_and_sorting(array):
             counting_items.append((item, array.count(item)))
 
         counting_items.sort(key=lambda x: x[1], reverse=True)
-        print(counting_items)
 
         return (counting_items[0][0])
 

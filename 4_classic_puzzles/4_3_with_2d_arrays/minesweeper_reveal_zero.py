@@ -71,17 +71,4 @@ def reveal_zero_bomb_zone(
 
 
 if __name__ == "__main__":
-    field = [
-        [0, 0, 1, 1, 1],
-        [0, 0, 1, -1, 1],
-        [1, 1, 2, 1, 1],
-        [1, -1, 1, 0, 0]
-    ]
-
-    nb_rows, nb_cols = 4, 5
-    clicked_row, clicked_col = 0, 1
-
-    print("Init >>>", field)
-    print("Clic >>>", reveal_zero_bomb_zone(
-        field, nb_rows, nb_cols, clicked_row, clicked_col
-    ))
+    pass
