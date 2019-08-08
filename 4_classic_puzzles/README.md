@@ -57,7 +57,10 @@ Using objects (JS), dictionaries or sets to collect frequencies of some values.
 
 It often avoid nested loops or others O(n\*\*2) operations with arrays or strings.
 
-**Example:** `same_frequencies.js` / `same_frequencies.py`
+**Examples:**
+
+- `same_frequencies.js` / `same_frequencies.py`
+- `anagrams.js`(with one or two counters)
 
 #### "Multiples Pointers" Pattern
 

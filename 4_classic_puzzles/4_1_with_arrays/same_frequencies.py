@@ -56,7 +56,7 @@ def refactored_same(array_1, array_2):
 def same_with_counters(array_1, array_2):
     from collections import Counter
 
-    counter_1 = Counter([n * n for n in array_1])
+    counter_1 = Counter((n * n for n in array_1))
     counter_2 = Counter(array_2)
     return counter_1 == counter_2
 
