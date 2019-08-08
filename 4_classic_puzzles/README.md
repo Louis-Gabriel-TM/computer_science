@@ -1,6 +1,6 @@
 # Problem Solving Techniques
 
-### Problem Solving in 5 steps
+## Problem Solving in 5 steps
 
 #### 1. Understand the Problem
 
@@ -48,6 +48,16 @@ Some refactoring questions:
 - can you improve the performance of the solution?
 - can you reuse the method for some other problem?
 - how have other people solved this problem?
+
+## Problem Solving Patterns
+
+#### Frequency Counter Pattern
+
+#### Multiples Pointers Pattern
+
+#### Sliding Window Pattern
+
+#### Divide and Conquer Pattern
 
 ## For Coding Interviews
 
