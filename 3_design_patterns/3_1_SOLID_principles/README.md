@@ -20,7 +20,7 @@ A class should have one unique responsibility.
 
 Similar to the **_Separation of Concerns (SOC)_** principle.
 
-**Illustration:** `srp.py`
+**Example:** `srp.py`
 
 **Anti-pattern:** _God objects_
 
@@ -32,7 +32,7 @@ _"A class / module / function / ... should be open for extension [of the behavio
 
 **Useful patterns:** Enterprise pattern _Specification_, _Combinator_
 
-**Illustration:** `ocp.py`
+**Example:** `ocp.py`
 
 ### Liskov Substitution Principle
 
@@ -40,7 +40,7 @@ _"Objects in a program should be replaceable with instances of their subtypes wi
 
 **Useful patterns:** _Factory_
 
-**Illustration:** `lsp.py`
+**Example:** `lsp.py`
 
 ### Interface Segregation Principle
 

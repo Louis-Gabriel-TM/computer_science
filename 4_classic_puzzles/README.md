@@ -51,13 +51,25 @@ Some refactoring questions:
 
 ## Problem Solving Patterns
 
-#### Frequency Counter Pattern
+#### "Frequency Counter" Pattern
 
-#### Multiples Pointers Pattern
+Using objects (JS), dictionaries or sets to collect frequencies of some values.
 
-#### Sliding Window Pattern
+It often avoid nested loops or others O(n\*\*2) operations with arrays or strings.
 
-#### Divide and Conquer Pattern
+**Example:** `same_frequencies.js` / `same_frequencies.py`
+
+#### "Multiples Pointers" Pattern
+
+#### "Sliding Window" Pattern
+
+#### "Divide and Conquer" Pattern
+
+#### Dynamic Programming
+
+#### Greedy Algorithms
+
+#### Backtracking
 
 ## For Coding Interviews
 
