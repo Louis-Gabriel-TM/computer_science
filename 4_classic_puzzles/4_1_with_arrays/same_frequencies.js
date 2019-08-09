@@ -4,7 +4,7 @@ Puzzle Wording
 Write a function called 'same' which accept two arrays.
 The function should return true if every value in the first array has it's corresponding value squared in the second array, at the same frequency.
 
-Example:
+Examples:
 -------
 same([1, 2, 3], [4, 1, 9]) --> true
 same([1, 2, 3], [1, 9]) --> false
@@ -56,3 +56,4 @@ function refactoredSame(array1, array2) {
 
   return true;
 }
+// Time complexity of 'refactoredSame': O(n)

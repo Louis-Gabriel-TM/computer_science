@@ -67,6 +67,14 @@ It often avoid nested loops or others O(n\*\*2) operations with arrays or string
 
 #### "Multiples Pointers" Pattern
 
+Using pointers on index / position, to move both from the beginning, end or middle of an array or string, based on a certain condition.
+
+Efficient in time complexity and often very efficient in time complexity also.
+
+**Example:**
+
+- `sum_zero.js`
+
 #### "Sliding Window" Pattern
 
 #### "Divide and Conquer" Pattern
