@@ -2,7 +2,7 @@
 Puzzle Wording
 ==============
 Write a function called 'sumZero' which accepts a sorted array of integers.
-It shouyd returns the first pair where sum is 0 and 'undefined' if such a pair does not exist.
+It should returns the first pair where sum is 0 and 'undefined' if such a pair does not exist.
 """
 
 

@@ -71,9 +71,10 @@ Using pointers on index / position, to move both from the beginning, end or midd
 
 Efficient in time complexity and often very efficient in time complexity also.
 
-**Example:**
+**Examples:**
 
 - `sum_zero.js` | `sum_zero.py`
+- `count_unique_values.js` | `count_unique_values.py`
 
 #### "Sliding Window" Pattern
 
