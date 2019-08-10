@@ -73,7 +73,7 @@ Efficient in time complexity and often very efficient in time complexity also.
 
 **Example:**
 
-- `sum_zero.js`
+- `sum_zero.js` | `sum_zero.py`
 
 #### "Sliding Window" Pattern
 

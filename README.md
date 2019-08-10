@@ -54,6 +54,7 @@ A collection of classic algorithms and data structures (July 2019- )
 - Common elements in two sorted arrays **[Python]**
 - Is an array a rotation of another (no duplicates)? **[Python]**
 - Samed frequencies in two arrays, with squares **[JS | Python]**
+- First pair of sum zero in an array **[JS | Python]**
 
 #### String puzzles
 

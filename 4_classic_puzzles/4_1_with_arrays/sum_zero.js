@@ -7,7 +7,7 @@ It shouyd returns the first pair where sum is 0 and 'undefined' if such a pair d
 
 function naiveSumZero(arr) {
   for (let i = 0; i < arr.length; i++) {
-    for (let j = 0; i < arr.length; j++) {
+    for (let j = i + 1; j < arr.length; j++) {
       if (arr[i] + arr[j] === 0) {
         return [arr[i], arr[j]];
       }
